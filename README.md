@@ -1,1 +1,1 @@
-# Regulated-Power-Supply-12V-
+# Regulated Power Supply 12V DC

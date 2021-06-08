@@ -1,8 +1,11 @@
 # 5V DC Regulated Power Supply 
-# Proteus Simulation  
+
 
 Input : 9V AC, 50Hz <br/>
 Output : 5V DC <br/>
+
+![Diagram](https://user-images.githubusercontent.com/49475559/121223769-7d2a1100-c8a5-11eb-89b8-101c62180e11.png)
+# Proteus Simulation  
 ![5V DC - Power Supply Simulation](https://user-images.githubusercontent.com/49475559/120933828-9605bb80-c719-11eb-9904-22a512770951.png)
 
 # EagleCAD Schematic 
